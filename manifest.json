@@ -6,6 +6,13 @@
     "author": "SoundChex",
     "versions": [
       {
+        "version": "1.0.2",
+        "sourceUrl": "https://github.com/tripsittr/soundchex-playlist-porter/archive/refs/tags/v1.0.2.zip",
+        "targetAbi": "0.1.0",
+        "requiresPhp": "8.2",
+        "changelog": "In-page Spotify setup form."
+      },
+      {
         "version": "1.0.1",
         "sourceUrl": "https://github.com/tripsittr/soundchex-playlist-porter/archive/refs/tags/v1.0.1.zip",
         "targetAbi": "0.1.0",
