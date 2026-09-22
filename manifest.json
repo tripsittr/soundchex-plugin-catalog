@@ -1,0 +1,47 @@
+[
+  {
+    "id": "soundchex.playlist-porter",
+    "name": "Playlist Porter",
+    "description": "Bring your playlists with you. Import a playlist file (M3U, CSV, or XSPF) or connect a streaming service, matched to your library and saved as a SoundChex playlist.",
+    "author": "SoundChex",
+    "versions": [
+      {
+        "version": "1.0.0",
+        "sourceUrl": "https://github.com/tripsittr/soundchex-playlist-porter/archive/refs/tags/v1.0.0.zip",
+        "targetAbi": "0.1.0",
+        "requiresPhp": "8.2",
+        "changelog": "Initial release."
+      }
+    ]
+  },
+  {
+    "id": "soundchex.activity-log",
+    "name": "Activity Log",
+    "description": "Records every event to one unified activity timeline and adds an Audit Log page to the admin.",
+    "author": "SoundChex",
+    "versions": [
+      {
+        "version": "1.0.0",
+        "sourceUrl": "https://github.com/tripsittr/soundchex-activity-log/archive/refs/tags/v1.0.0.zip",
+        "targetAbi": "0.1.0",
+        "requiresPhp": "8.2",
+        "changelog": "Initial release."
+      }
+    ]
+  },
+  {
+    "id": "soundchex.title-tidier",
+    "name": "Title Tidier",
+    "description": "Strips a track's own artist out of its title — \"Artist - Song\" becomes \"Song\".",
+    "author": "SoundChex",
+    "versions": [
+      {
+        "version": "1.0.0",
+        "sourceUrl": "https://github.com/tripsittr/soundchex-title-tidier/archive/refs/tags/v1.0.0.zip",
+        "targetAbi": "0.1.0",
+        "requiresPhp": "8.2",
+        "changelog": "Initial release."
+      }
+    ]
+  }
+]
